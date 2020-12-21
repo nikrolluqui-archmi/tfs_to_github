@@ -1,7 +1,8 @@
 ﻿Module Module1
 
     Sub Main()
-        Console.WriteLine("Press Any Key...!!!")
+        Console.WriteLine("Press Any Key1...!!!")
+        Console.WriteLine("Press Any Key2...!!!")
         Console.ReadKey()
     End Sub
 
