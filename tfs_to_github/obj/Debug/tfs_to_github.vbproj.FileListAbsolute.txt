@@ -1,0 +1,11 @@
+C:\Users\ARCH GLOBAL\source\repos\nikrolluqui-archmi\tfs_to_github\tfs_to_github\bin\Debug\tfs_to_github.exe.config
+C:\Users\ARCH GLOBAL\source\repos\nikrolluqui-archmi\tfs_to_github\tfs_to_github\bin\Debug\tfs_to_github.exe
+C:\Users\ARCH GLOBAL\source\repos\nikrolluqui-archmi\tfs_to_github\tfs_to_github\bin\Debug\tfs_to_github.pdb
+C:\Users\ARCH GLOBAL\source\repos\nikrolluqui-archmi\tfs_to_github\tfs_to_github\bin\Debug\tfs_to_github.xml
+C:\Users\ARCH GLOBAL\source\repos\nikrolluqui-archmi\tfs_to_github\tfs_to_github\obj\Debug\tfs_to_github.vbprojAssemblyReference.cache
+C:\Users\ARCH GLOBAL\source\repos\nikrolluqui-archmi\tfs_to_github\tfs_to_github\obj\Debug\tfs_to_github.Resources.resources
+C:\Users\ARCH GLOBAL\source\repos\nikrolluqui-archmi\tfs_to_github\tfs_to_github\obj\Debug\tfs_to_github.vbproj.GenerateResource.cache
+C:\Users\ARCH GLOBAL\source\repos\nikrolluqui-archmi\tfs_to_github\tfs_to_github\obj\Debug\tfs_to_github.vbproj.CoreCompileInputs.cache
+C:\Users\ARCH GLOBAL\source\repos\nikrolluqui-archmi\tfs_to_github\tfs_to_github\obj\Debug\tfs_to_github.exe
+C:\Users\ARCH GLOBAL\source\repos\nikrolluqui-archmi\tfs_to_github\tfs_to_github\obj\Debug\tfs_to_github.xml
+C:\Users\ARCH GLOBAL\source\repos\nikrolluqui-archmi\tfs_to_github\tfs_to_github\obj\Debug\tfs_to_github.pdb
