@@ -1,15 +1,16 @@
 ﻿Module Module1
 
     Sub Main()
-        Console.WriteLine("Press Any Key1...!!!")
-        Console.WriteLine("Press Any Key2...!!!")
-        Console.WriteLine("Press Any Key3...!!!")
-        Console.WriteLine("Press Any Key4...!!!")
-        Console.WriteLine("Press Any Key5...!!!")
-        Console.WriteLine("Press Any Key6...!!!")
-        Console.WriteLine("Press Any Key7...!!!")
-        Console.WriteLine("Press Any Key8...!!!")
-        Console.WriteLine("Press Any Key9...!!!")
+        Console.WriteLine("Press Any Key01...!!!")
+        Console.WriteLine("Press Any Key02...!!!")
+        Console.WriteLine("Press Any Key03...!!!")
+        Console.WriteLine("Press Any Key04...!!!")
+        Console.WriteLine("Press Any Key05...!!!")
+        Console.WriteLine("Press Any Key06...!!!")
+        Console.WriteLine("Press Any Key07...!!!")
+        Console.WriteLine("Press Any Key08...!!!")
+        Console.WriteLine("Press Any Key09...!!!")
+        Console.WriteLine("Press Any Key10...!!!")
         Console.ReadKey()
     End Sub
 
